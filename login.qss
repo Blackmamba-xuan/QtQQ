@@ -1,0 +1,6 @@
+#label_3{
+   color:white;
+}
+#label_4{
+   border-radius: 15px;
+}
