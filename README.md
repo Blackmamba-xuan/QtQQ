@@ -1,4 +1,4 @@
-# QQ
+# 仿QQ即时通讯程序
 这是我们软件工程一个大作业
 
 ![](https://raw.githubusercontent.com/Blackmamba-xuan/QQ/master/Screenshot/1.png)
