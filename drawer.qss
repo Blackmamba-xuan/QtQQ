@@ -1,0 +1,16 @@
+QToolBox::tab {
+
+}
+
+QToolBox::tab:selected {
+    font: italic;
+    color: white;
+    background:red;
+}
+QToolBox{
+   backgroud:red;
+   border-color: beige;
+}
+QListWidget::item:hover {
+      background-color:#FCF0C1;
+}
